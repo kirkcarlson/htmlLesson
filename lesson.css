@@ -1,0 +1,10 @@
+/* This is a CSS comment. */
+body {
+  font-family: Times-roman, serif;
+}
+h1 {
+  font-family: Ariel, Helvetica, sans-serif;
+  font-weight: bold;
+  font-color: red;
+}
+
