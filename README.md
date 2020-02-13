@@ -1,7 +1,7 @@
-#htmlLesson
+# htmlLesson
 This is a prototype of a short lesson to teach HTML, CSS and Javascript.
 
-#Github
+# Github
 Github is a web service which you can get account to save your files and make them visible to the public. Github uses the 'git' application to manage the files on your account. A brief introduction to Github and git may be found at www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiVhttps://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
 This tutorial leads you through the differences between git and github.
@@ -31,6 +31,9 @@ The status of git can be viewed at any time with:
 ```
 git status
 ```
-To link a local repository with a repository on github, use Google to find the use case you need. This linking allows you to work on local files on your local machine without being on-line. Changes may be commited while off-line, but to sync the off-line and on-line repositories, you will need to use 'git push'.
+To link a local repository with a repository on github, use Google to find the use case you need. This linking allows you to work on local files on your local machine without being on-line. Changes may be commited while off-line, but to sync the off-line and on-line repositories, you will need to use 'git push' while on-line.
 
 If you want you can publish a static web page on the github site following the instructions at https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site
+
+# Getting Help
+You can get help from the courses or you can use the slack channel at SCCodes.slack.com. If you need an invitation to join the channel use https://bit.ly/SCCodesSlack (case is important!) The slack channel may be faster as it is monitored by several mentors as well as others in your cohort. If you are having trouble, chances are others are having the same trouble. Don't be shy.
